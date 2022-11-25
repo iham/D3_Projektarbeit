@@ -3,14 +3,20 @@
 ## Team G3 (International)
 - Eric Langer
 - Felix Ossmann
-- Hannes Brottragger
+- Hannes Brottrager
 - Markus Hilbert
 
+git action:
+filename gepackt: D3_G3-<VornameNachname>.zip
 
-## Task 01
+content:
+- wireframe.xd
+- screendesign.xd
+- präsentation.ppt
+- präsentation.pdf (Export from ppt)
+- handout.pdf (???)
+- Entwurf.pdf
 
-## Task 02
-
-## Task 03
-
-## Task 04
+### Zusatz-Features
+- Nutzungsdaten sammeln und für abwesenheit (Urlaub) bereitstellen (Anwesenheits-Simulation)
+- Kamerazugriff über Smartphone-App
