@@ -12,8 +12,8 @@ filename gepackt: D3_G3-<VornameNachname>.zip
 content:
 - wireframe.xd
 - screendesign.xd
-- präsentation.ppt
-- präsentation.pdf (Export from ppt)
+- präsentation.pptx
+- präsentation.pdf (Export from pptx)
 - handout.pdf (???)
 - Entwurf.pdf
 
